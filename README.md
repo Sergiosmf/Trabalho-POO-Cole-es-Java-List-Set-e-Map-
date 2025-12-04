@@ -3,7 +3,7 @@
 ## 1) Integrantes do grupo 
 - **(1)** Sérgio Mendes
 
-> Substitua pelos nomes reais do grupo.
+
 
 ---
 
