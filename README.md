@@ -1,9 +1,7 @@
 # Trabalho de POO — Coleções Java (List, Set e Map)
 
-## 1) Integrantes do grupo (máximo 3)
-- **(1)** Nome Sobrenome
-- **(2)** Nome Sobrenome
-- **(3)** Nome Sobrenome
+## 1) Integrantes do grupo 
+- **(1)** Sérgio Mendes
 
 > Substitua pelos nomes reais do grupo.
 
